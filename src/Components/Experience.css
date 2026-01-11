@@ -1,0 +1,9 @@
+.Experience{
+    height: 100vh; 
+    margin-top: 50px;
+    padding: 20px;
+    color: orange;
+    scroll-behavior: smooth;
+    text-align: center;
+
+}

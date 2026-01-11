@@ -1,0 +1,27 @@
+.parent{
+    
+    height: 100vh; 
+    margin-top: 50px;
+    padding: 20px;
+    color: orange;
+      scroll-behavior: smooth;
+
+}
+.parent h1{
+    text-align: center;
+    
+}
+.child
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+    
+}
+
+
+
+

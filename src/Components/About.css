@@ -1,0 +1,9 @@
+.About {
+  height: 100vh; 
+  margin-top: 50px;
+  color: orange;
+  overflow: hidden;
+  padding: 20px;
+  scroll-behavior: smooth;
+  text-align: center;
+}
