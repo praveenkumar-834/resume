@@ -2,7 +2,7 @@ import React from "react";
 import "./Hero.css";
 import { Element } from "react-scroll";
 import { BiFontSize } from "react-icons/bi";
-import profileImg from "./assets/profile.png";
+import profileImg from "../assests/img.jpg";
 
 
 function Hero() {
