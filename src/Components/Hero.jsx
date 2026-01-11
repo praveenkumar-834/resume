@@ -10,7 +10,7 @@ function Hero() {
     <div className="hero">
       <h1>R Praveen Kumar<br></br> <span>Passonate FullStack developer </span> </h1>
       
-      <img src="../src/assets/profile.png" alt="profile" />
+      <img src="/resume/src/assets/profile.png" alt="profile" />
     </div>
     </Element>
   );
